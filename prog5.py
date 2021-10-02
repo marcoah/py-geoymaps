@@ -6,6 +6,7 @@ inicio = int(input('Introduce el año inicial: '))
 fin = int(input('Introduce el año final: '))
 # Definimos un diccionario vacío para guardar las ventas de cada año
 ventas = {}
+
 # Bucle iterativo para preguntar las ventas de cada año y guardarlas en el diccionario
 # i toma como valores los años desde el año de inicio hasta el año final
 for i in range(inicio, fin+1):
@@ -15,6 +16,7 @@ for i in range(inicio, fin+1):
 fig, ax = plt.subplots()
 # Dibujamos la línea con las ventas a partir del diccionario
 ax.plot(ventas.keys(), ventas.values())
+
 # Mostarmos el gráfico por pantalla
 plt.show()
 
