@@ -9,7 +9,5 @@ Tenga en cuenta que tenemos un código de conducta, sígalo en todas sus interac
 * Aumente los números de versión en cualquier archivo de ejemplos y README.md a la nueva versión que representaría esta Solicitud de extracción. El esquema de versiones que utilizamos es SemVer.
 * Puede fusionar la Solicitud de extracción una vez que tenga la aprobación de otros dos desarrolladores, o si no tiene permiso para hacerlo, puede solicitar al segundo revisor que la combine por usted.
 
-
-
 ## Atribución
 Este Código de conducta está adaptado del Colaborador del Colaborador, versión 1.4, disponible en http://contributor-covenant.org/version/1/4
