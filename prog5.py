@@ -1,3 +1,10 @@
+"""
+=========================
+TITLE
+=========================
+
+DESC
+"""
 import matplotlib.pyplot as plt
 
 # Preguntamos por el año inicial

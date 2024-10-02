@@ -1,4 +1,10 @@
-#print('Hola mundo')
+"""
+=========================
+TITLE
+=========================
+
+DESC
+"""
 
 ### Introducir un numero por teclado y decir si es par o impar
 num = int(input('Introduzca un numero: '))
